@@ -1,7 +1,7 @@
 nav:
   Home: /
-  About: /about/
   Archives: /archives/
+  About: /about/
 
 customize:
     gravatar:
@@ -25,9 +25,8 @@ customize:
         gravator: false
     social_links:
         github: https://github.com/caiyue1993
-        twitter: 
-        facebook: /
-        linkedin: /
+        twitter: https://twitter.com/caiyue5
+        weibo: https://twitter.com/caiyue5
     show_all_posts: true
     highlight: rainbow
 
@@ -37,7 +36,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
