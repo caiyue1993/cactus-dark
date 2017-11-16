@@ -1,10 +1,7 @@
 nav:
   Home: /
   About: /about/
-  Writing: /archives/
-  Projects: http://github.com/probberechts
-
-projects_url: http://github.com/probberechts
+  Archives: /archives/
 
 customize:
     gravatar:
@@ -27,12 +24,11 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
+        github: https://github.com/caiyue1993
+        twitter: 
         facebook: /
         linkedin: /
-    show_all_posts: false
-    post_count: 5
+    show_all_posts: true
     highlight: rainbow
 
 # RSS
