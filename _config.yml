@@ -5,7 +5,7 @@ nav:
 
 customize:
     gravatar:
-        email: 
+        email: yuecai.nju@gmail.com
     logo:
         enabled: true
         width: 50
@@ -26,7 +26,7 @@ customize:
     social_links:
         github: https://github.com/caiyue1993
         twitter: https://twitter.com/caiyue5
-        weibo: https://twitter.com/caiyue5
+        weibo: https://weibo.com/caiyue233
     show_all_posts: true
     highlight: rainbow
 
