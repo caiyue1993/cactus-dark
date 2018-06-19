@@ -1,7 +1,7 @@
 nav:
   Home: /
   Archives: /archives/
-  About ME: /about/
+  About: /about/
 
 customize:
     gravatar:
@@ -31,12 +31,13 @@ customize:
     highlight: rainbow
 
 # RSS
-rss: false
+rss: atom.xml
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
-    google_analytics: # enter the tracking ID for your Google Analytics
+    disqus_shortname: soledadme
+    google_analytics: UA-121068754-1 
+    # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
